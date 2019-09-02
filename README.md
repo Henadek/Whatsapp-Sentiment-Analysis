@@ -11,8 +11,10 @@
 <li>An email will be composed with your chat history attached as a .txt document</li>
 </h5>
 
+<br>
 <p>See official Whatsapp instruction link below for more info in detail</p>
 <li><i><a href="https://faq.whatsapp.com/en/android/23756533/"> https://faq.whatsapp.com/en/android/23756533</a></i></li>
+<br>
 
 <h4> The jupyter notebook used for this analysis is based on the Instabase Drive/Server, so there is slight variation in the code to load data into pandas.
 <p>Feel free though, to change and modify this part to suit your own environment!</p></h4>
