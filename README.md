@@ -4,12 +4,12 @@
 <h4>Instructions to get Whatsapp Chat</h4>
 <li>  
 <h5>
-<ul>Open the chat for the individual or group</ul>
-<ul>Tap More options</ul>
-<ul>Tap More</ul>
-<ul>Tap Export chat</ul>
-<ul>Choose whether to Include Media or not</ul>
-<ul>An email will be composed with your chat history attached as a .txt document</ul>
+<ol>Open the chat for the individual or group</ol>
+<ol>Tap More options</ol>
+<ol>Tap More</ol>
+<ol>Tap Export chat</ol>
+<ol>Choose whether to Include Media or not</ol>
+<ol>An email will be composed with your chat history attached as a .txt document</ol>
 </h5>
 </li>
 
